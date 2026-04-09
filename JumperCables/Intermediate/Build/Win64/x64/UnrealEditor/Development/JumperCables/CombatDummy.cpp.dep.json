@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\source\\jumpercables\\variant_combat\\gameplay\\combatdummy.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\x64\\jumpercableseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jumpercables\\definitions.jumpercables.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\source\\jumpercables\\variant_combat\\gameplay\\combatdummy.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\source\\jumpercables\\variant_combat\\interfaces\\combatdamageable.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\unrealeditor\\inc\\jumpercables\\uht\\combatdamageable.generated.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\unrealeditor\\inc\\jumpercables\\uht\\combatdummy.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicsconstraintcomponent.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintinstance.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintinstance.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicsconstraintcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

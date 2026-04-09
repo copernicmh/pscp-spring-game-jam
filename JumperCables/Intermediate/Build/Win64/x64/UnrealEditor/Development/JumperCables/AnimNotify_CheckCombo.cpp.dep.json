@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\source\\jumpercables\\variant_combat\\animation\\animnotify_checkcombo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\x64\\jumpercableseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jumpercables\\definitions.jumpercables.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\source\\jumpercables\\variant_combat\\animation\\animnotify_checkcombo.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\unrealeditor\\inc\\jumpercables\\uht\\animnotify_checkcombo.generated.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\source\\jumpercables\\variant_combat\\interfaces\\combatattacker.h",
+            "c:\\users\\precious donkor\\games\\unrealprojects\\jumpercables\\intermediate\\build\\win64\\unrealeditor\\inc\\jumpercables\\uht\\combatattacker.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

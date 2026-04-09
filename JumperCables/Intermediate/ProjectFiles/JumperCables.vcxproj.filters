@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\JumperCables.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JumperCables.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JumperCablesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\JumperCables">
+      <UniqueIdentifier>{A020D752-CB86-3A82-941A-FF9B74706310}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JumperCables\JumperCables.Build.cs">
+      <Filter>Source\JumperCables</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JumperCables\JumperCables.cpp">
+      <Filter>Source\JumperCables</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\JumperCables.h">
+      <Filter>Source\JumperCables</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\JumperCablesCharacter.cpp">
+      <Filter>Source\JumperCables</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\JumperCablesCharacter.h">
+      <Filter>Source\JumperCables</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\JumperCablesGameMode.cpp">
+      <Filter>Source\JumperCables</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\JumperCablesGameMode.h">
+      <Filter>Source\JumperCables</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\JumperCablesPlayerController.cpp">
+      <Filter>Source\JumperCables</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\JumperCablesPlayerController.h">
+      <Filter>Source\JumperCables</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_Combat">
+      <UniqueIdentifier>{1C34ADA3-62E8-30AE-BCF3-C478001E3A22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\JumperCables\Variant_Combat\AI">
+      <UniqueIdentifier>{635F1BB7-83DB-3D6B-9720-A4EF9F12C320}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\AI\EnvQueryContext_Danger.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\AI\EnvQueryContext_Danger.h">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\JumperCables\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_Combat\Animation">
+      <UniqueIdentifier>{9E68181C-5AF6-3C89-9FDF-C69735ECBACA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\JumperCables\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\JumperCables\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\JumperCables\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\JumperCables\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\JumperCables\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\JumperCables\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\JumperCables\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\JumperCables\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\JumperCables\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{CB0A9361-D760-328D-8465-C58901DE9AD5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\JumperCables\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{A5DB595A-301D-3A30-830E-EC875C11D037}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\JumperCables\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\JumperCables\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\JumperCables\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_Combat\UI">
+      <UniqueIdentifier>{3AE69891-E438-364A-A1E1-778ADD54C9A0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\JumperCables\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\JumperCables\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_Platforming">
+      <UniqueIdentifier>{826C9F09-17A6-3520-8274-47442E41B869}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\JumperCables\Variant_Platforming\Animation">
+      <UniqueIdentifier>{1ADA3070-01CA-3A50-B1B2-1B812050F43E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\JumperCables\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\JumperCables\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\JumperCables\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\JumperCables\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\JumperCables\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\JumperCables\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\JumperCables\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\JumperCables\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_SideScrolling">
+      <UniqueIdentifier>{BBDF2536-E17F-3EA0-A942-17FA04E97627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\JumperCables\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{CAD7AE32-2AF4-3D80-800C-FA2B0F2698C0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{E34E34DD-6117-3452-8EF9-F61B732154B8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{29D3BC94-D492-3DC1-9770-46A9FE5EB745}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\JumperCables\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{37812246-AA71-3AA9-8BD7-E561F977D9F3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\JumperCables\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\JumperCables\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

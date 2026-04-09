@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JumperCables",
+			"Path": "..\\Source\\JumperCables.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JumperCablesEditor",
+			"Path": "..\\Source\\JumperCablesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
