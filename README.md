@@ -1,4 +1,4 @@
-# pscp-spring-game-jam
+# Spring Game Jam
 
 **Tool:** Jumper Cables
 
