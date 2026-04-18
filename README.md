@@ -11,7 +11,7 @@ Jumper cables are used to transfer electricity from a live battery to a depleted
 - Current provides health to cyborg from scattered power generators.
 
 **Extension:**
-Jumper cables tkransfer energy to sustain cyborg life. Electrical conduction enables seamless movement across various worlds
+Jumper cables transfer energy to sustain cyborg life. Electrical conduction enables seamless movement across various worlds
 
 **6 week dev cycle**
 
