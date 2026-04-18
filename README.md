@@ -13,7 +13,8 @@ Jumper cables are used to transfer electricity from a live battery to a depleted
 **Extension:**
 Jumper cables tkransfer energy to sustain cyborg life. Electrical conduction enables seamless movement across various worlds
 
-**6 week development cycle**
+**6 week dev cycle**
+
 Week 1: Monday, April 20 – Sunday, April 26
 
 Week 2: Monday, April 27 – Sunday, May 3
