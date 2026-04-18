@@ -1,17 +1,19 @@
-# pscp-spring-game-jam
+# Spring Game Jam
 
 **Tool:** Jumper Cables
 
 **Real-World Function:**
-Jumper cables are used to transfer electricity from a live battery to a depleted one, completing a circuit to restore function.
+  Jumper cables are used to transfer electricity from a live battery to a depleted one,
+  completing a circuit to restore function.
 
 **Fantastical Twist:**
-- Cables bridge gaps between different dimension levels.
-- High voltage clamps paralyze nearby enemies.
-- Current provides health to cyborg from scattered power generators.
+  - Cables bridge gaps between different dimension levels.
+  - High voltage clamps paralyze nearby enemies.
+  - Current provides health to cyborg from scattered power generators.
 
 **Extension:**
-Jumper cables transfer energy to sustain cyborg life. Electrical conduction enables seamless movement across various worlds
+  Jumper cables transfer energy to sustain cyborg life. 
+  Electrical conduction enables seamless movement across various worlds
 
 **6 week dev cycle**
 
