@@ -1,9 +1,9 @@
 # Spring Game Jam
 
-**tool:** Jumper Cables
+**Tool:** Jumper Cables
 
-**irl function:**
-  Jumper cables are used to transfer electricity from a live battery to a depleted one
+**Read-world function:**
+  Jumper cables are used to transfer electricity from a live battery to a depleted one, completing a circuit.
 
 **fantastical twist:**
   - Cables bridge gaps between different dimension levels.
