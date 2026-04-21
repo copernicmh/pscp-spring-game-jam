@@ -7,7 +7,7 @@
 # Testing
 
 
-**6 week dev cycle**
+**Dev Cycle**
 
 Week 1: Monday, April 20 – Sunday, April 26
 
