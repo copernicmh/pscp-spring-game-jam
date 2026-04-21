@@ -1,14 +1,10 @@
 # Spring Game Jam
 
-**Tool:** Jumper Cables
 
-**Read-world function:**
-  Jumper cables are used to transfer electricity from a live battery to a depleted one, completing a circuit.
+# Bugs
 
-**fantastical twist:**
-  - Cables bridge gaps between different dimension levels.
-  - High voltage clamps paralyze nearby enemies.
-  - Current provides health to cyborg from scattered power generators.
+
+# Testing
 
 
 **6 week dev cycle**
@@ -24,3 +20,5 @@ Week 4: Monday, May 11 – Sunday, May 17
 Week 5: Monday, May 18 – Sunday, May 24
 
 Week 6: Monday, May 25 – Sunday, May 31
+
+Final Submission Target: Jun 05, 2026
