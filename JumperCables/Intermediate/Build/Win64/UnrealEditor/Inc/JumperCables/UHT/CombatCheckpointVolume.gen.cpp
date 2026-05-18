@@ -233,15 +233,15 @@ ACombatCheckpointVolume::~ACombatCheckpointVolume() {}
 // ********** End Class ACombatCheckpointVolume ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics
+struct Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACombatCheckpointVolume, ACombatCheckpointVolume::StaticClass, TEXT("ACombatCheckpointVolume"), &Z_Registration_Info_UClass_ACombatCheckpointVolume, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACombatCheckpointVolume), 2625533516U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_3209504290{
+}; // Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_3209504290{
 	TEXT("/Script/JumperCables"),
-	Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_JumperCables_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

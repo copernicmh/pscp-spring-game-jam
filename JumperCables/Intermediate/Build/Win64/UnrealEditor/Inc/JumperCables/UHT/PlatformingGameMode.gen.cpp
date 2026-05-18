@@ -109,15 +109,15 @@ APlatformingGameMode::~APlatformingGameMode() {}
 // ********** End Class APlatformingGameMode *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics
+struct Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_APlatformingGameMode, APlatformingGameMode::StaticClass, TEXT("APlatformingGameMode"), &Z_Registration_Info_UClass_APlatformingGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlatformingGameMode), 3253312520U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_1323674940{
+}; // Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_1323674940{
 	TEXT("/Script/JumperCables"),
-	Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingGameMode_h__Script_JumperCables_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };
