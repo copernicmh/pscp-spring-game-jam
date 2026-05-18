@@ -169,15 +169,15 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_NS(, USideScrollingInteractable);
 // ********** End Interface USideScrollingInteractable *********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics
+struct Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_USideScrollingInteractable, USideScrollingInteractable::StaticClass, TEXT("USideScrollingInteractable"), &Z_Registration_Info_UClass_USideScrollingInteractable, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USideScrollingInteractable), 1555535517U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_3620747802{
+}; // Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_3620747802{
 	TEXT("/Script/JumperCables"),
-	Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_SideScrolling_Interfaces_SideScrollingInteractable_h__Script_JumperCables_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AJumperCablesCharacter ***************************************************
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDoJumpEnd); \
 	DECLARE_FUNCTION(execDoJumpStart); \
 	DECLARE_FUNCTION(execDoLook); \
@@ -27,7 +27,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AJumperCablesCharacter_Statics;
 JUMPERCABLES_API UClass* Z_Construct_UClass_AJumperCablesCharacter_NoRegister();
 
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_INCLASS_NO_PURE_DECLS \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAJumperCablesCharacter(); \
 	friend struct ::Z_Construct_UClass_AJumperCablesCharacter_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(AJumperCablesCharacter)
 
 
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_ENHANCED_CONSTRUCTORS \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AJumperCablesCharacter(AJumperCablesCharacter&&) = delete; \
 	AJumperCablesCharacter(const AJumperCablesCharacter&) = delete; \
@@ -48,13 +48,13 @@ public: \
 	NO_API virtual ~AJumperCablesCharacter();
 
 
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_21_PROLOG
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_GENERATED_BODY \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_21_PROLOG
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_INCLASS_NO_PURE_DECLS \
-	FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_ENHANCED_CONSTRUCTORS \
+	FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class AJumperCablesCharacter;
 // ********** End Class AJumperCablesCharacter *****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_JumperCablesCharacter_h
+#define CURRENT_FILE_ID FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_JumperCablesCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

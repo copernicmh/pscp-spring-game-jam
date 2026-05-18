@@ -1,12 +1,12 @@
-"C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp"
-@"C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/JumperCables.Shared.rsp"
-/FI"C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/JumperCablesEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Definitions.JumperCables.h"
-/Yu"C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/JumperCablesEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/JumperCablesEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp.obj"
-/experimental:log "C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp.sarif"
-/sourceDependencies "C:/Users/Precious Donkor/Games/UnrealProjects/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp.dep.json"
+"C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp"
+@"C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/JumperCables.Shared.rsp"
+/FI"C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/JumperCablesEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Definitions.JumperCables.h"
+/Yu"C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/JumperCablesEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/JumperCablesEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp.obj"
+/experimental:log "C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp.sarif"
+/sourceDependencies "C:/Users/sasuk/OneDrive/Documents/GitHub/pscp-spring-game-jam/JumperCables/Intermediate/Build/Win64/x64/UnrealEditor/Development/JumperCables/Module.JumperCables.1.cpp.dep.json"
 /nologo
 /Oi
 /FC

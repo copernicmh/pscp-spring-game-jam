@@ -1,3 +1,9 @@
-2026/04/09-13:44:36.602 2808 Reusing MANIFEST C:\Users\Precious Donkor\Games\UnrealProjects\JumperCables\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/09-13:44:36.639 2808 Recovering log #3
-2026/04/09-13:44:36.648 2808 Reusing old log C:\Users\Precious Donkor\Games\UnrealProjects\JumperCables\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/17-23:42:39.944 5d94 Reusing MANIFEST C:\Users\sasuk\OneDrive\Documents\GitHub\pscp-spring-game-jam\JumperCables\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/17-23:42:39.953 5d94 Recovering log #3
+2026/05/17-23:42:39.967 5d94 Reusing old log C:\Users\sasuk\OneDrive\Documents\GitHub\pscp-spring-game-jam\JumperCables\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/17-23:48:40.004 6518 Level-0 table #5: started
+2026/05/17-23:48:40.075 6518 Level-0 table #5: 86061 bytes OK
+2026/05/17-23:48:40.087 6518 Delete type=0 #3
+2026/05/17-23:51:40.009 6518 Level-0 table #7: started
+2026/05/17-23:51:40.040 6518 Level-0 table #7: 71798 bytes OK
+2026/05/17-23:51:40.053 6518 Delete type=0 #4

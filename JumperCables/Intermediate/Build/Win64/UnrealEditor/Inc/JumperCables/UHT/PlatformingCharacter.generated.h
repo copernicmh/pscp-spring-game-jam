@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class APlatformingCharacter ****************************************************
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execHasWallJumped); \
 	DECLARE_FUNCTION(execHasDoubleJumped); \
 	DECLARE_FUNCTION(execDoJumpEnd); \
@@ -27,11 +27,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execDoMove);
 
 
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_CALLBACK_WRAPPERS
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_APlatformingCharacter_Statics;
 JUMPERCABLES_API UClass* Z_Construct_UClass_APlatformingCharacter_NoRegister();
 
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_INCLASS_NO_PURE_DECLS \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlatformingCharacter(); \
 	friend struct ::Z_Construct_UClass_APlatformingCharacter_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(APlatformingCharacter)
 
 
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_ENHANCED_CONSTRUCTORS \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	APlatformingCharacter(APlatformingCharacter&&) = delete; \
 	APlatformingCharacter(const APlatformingCharacter&) = delete; \
@@ -52,14 +52,14 @@ public: \
 	NO_API virtual ~APlatformingCharacter();
 
 
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_25_PROLOG
-#define FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_GENERATED_BODY \
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_25_PROLOG
+#define FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_CALLBACK_WRAPPERS \
-	FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_INCLASS_NO_PURE_DECLS \
-	FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_ENHANCED_CONSTRUCTORS \
+	FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_CALLBACK_WRAPPERS \
+	FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_INCLASS_NO_PURE_DECLS \
+	FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h_28_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -69,6 +69,6 @@ class APlatformingCharacter;
 // ********** End Class APlatformingCharacter ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Precious_Donkor_Games_UnrealProjects_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h
+#define CURRENT_FILE_ID FID_Users_sasuk_OneDrive_Documents_GitHub_pscp_spring_game_jam_JumperCables_Source_JumperCables_Variant_Platforming_PlatformingCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
