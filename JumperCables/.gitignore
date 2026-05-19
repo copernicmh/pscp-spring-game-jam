@@ -13,3 +13,4 @@ Saved/
 *.sln
 *_Auto*.umap
 *_Auto*.uasset
+.vsconfig
