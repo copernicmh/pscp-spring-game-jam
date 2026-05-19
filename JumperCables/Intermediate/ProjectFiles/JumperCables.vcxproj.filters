@@ -32,6 +32,12 @@
     <Filter Include="Source\JumperCables">
       <UniqueIdentifier>{A020D752-CB86-3A82-941A-FF9B74706310}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\JumperCables\JumperCable.cpp">
+      <Filter>Source\JumperCables</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\JumperCable.h">
+      <Filter>Source\JumperCables</Filter>
+    </ClInclude>
     <None Include="..\..\Source\JumperCables\JumperCables.Build.cs">
       <Filter>Source\JumperCables</Filter>
     </None>

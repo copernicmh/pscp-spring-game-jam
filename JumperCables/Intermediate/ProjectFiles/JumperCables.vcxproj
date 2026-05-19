@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{447346C3-7839-3D11-8601-BAEFFF961AF1}</ProjectGuid>
+    <ProjectGuid>{D9123887-F0CD-3F4D-823C-6D3A39F9AE49}</ProjectGuid>
     <RootNamespace>JumperCables</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
@@ -257,6 +257,10 @@
     <None Include="..\..\JumperCables.uproject"/>
     <None Include="..\..\Source\JumperCables.Target.cs"/>
     <None Include="..\..\Source\JumperCablesEditor.Target.cs"/>
+    <ClCompile Include="..\..\Source\JumperCables\JumperCable.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumperCables\JumperCable.h"/>
     <None Include="..\..\Source\JumperCables\JumperCables.Build.cs"/>
     <ClCompile Include="..\..\Source\JumperCables\JumperCables.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
