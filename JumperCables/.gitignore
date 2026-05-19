@@ -4,3 +4,12 @@ Intermediate/
 DerivedDataCache/
 Saved/
 *.sln
+.vs/
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+*.pdb
+*.sln
+*_Auto*.umap
+*_Auto*.uasset
