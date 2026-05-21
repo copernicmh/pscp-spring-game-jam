@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include <HealthBar.h>
 #include "GameFramework/PlayerController.h"
 #include "JumperCablesPlayerController.generated.h"
 
@@ -17,6 +18,7 @@ UCLASS(abstract)
 class AJumperCablesPlayerController : public APlayerController
 {
 	GENERATED_BODY()
+
 	
 protected:
 
@@ -48,5 +50,11 @@ protected:
 
 	/** Returns true if the player should use UMG touch controls */
 	bool ShouldUseTouchControls() const;
+
+	UPROPERTY()
+	TObjectPtr<UHealthBar> HealthBar;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "UI")
+	TSubclassOf<UHealthBar> HealthBarClass;
 
 };

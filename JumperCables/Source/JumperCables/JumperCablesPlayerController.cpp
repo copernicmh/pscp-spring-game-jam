@@ -31,7 +31,20 @@ void AJumperCablesPlayerController::BeginPlay()
 		}
 
 	}
+	
+	if (HealthBarClass){
+		HealthBar = CreateWidget<UHealthBar>(this, HealthBarClass);
+		HealthBar->AddToViewport();
+	}
+
+	HealthBar->SetHealthBar(65, 100);
+
 }
+
+//void AJumperCablesPlayerController::Tick(float DeltaTime)
+//{
+//	Super::Tick(DeltaTime);
+//}
 
 void AJumperCablesPlayerController::SetupInputComponent()
 {
